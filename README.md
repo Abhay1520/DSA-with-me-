@@ -1,1 +1,1 @@
-# -6Companies30days
+#  Its DSA practiced question by me 
